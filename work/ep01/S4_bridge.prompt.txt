@@ -1,0 +1,7 @@
+{
+  "prompt": "dramatic low angle dynamic shot, an anthropomorphic hinny delivery rider — a horse's compact body with a donkey's long straight face — lean and wiry, warm chestnut-brown fur, a battered mustard-yellow baseball cap worn backwards, a loud second-hand necktie over a plain cream undershirt, **a band of faded yellow cloth tape wrapped around his left ear**, two medium-length ears standing up, a short flat mane along the neck, arms end in three-fingered hoof-hands, kind eyes with clear catchlights, leaning low on his yellow scooter, leaning into a tight turn across a narrow vintage iron bridge with a gap in the planks, a huge rhino freight truck coming the other way, **the delivery box on the back perfectly level, not a drop spilled**, river glittering below, morning glare, retro american cartoon style, thick wobbly black ink outlines with varied line weight, flat solid colors, visible halftone dot texture, warm sepia palette, nostalgic picture-book mood",
+  "init_image": "S0_character_sheet.png",
+  "size": "2K",
+  "ratio": "16:9",
+  "elapsed_s": 171.9
+}

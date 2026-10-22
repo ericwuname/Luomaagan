@@ -11,31 +11,34 @@ __pycache__/
 .venv/
 venv/
 
-# ── 中间产物 / 大文件 ──
-# 生成的候选图很多，只保留精选进 git；原始批次在本地
+# ── 本地工作记忆（草稿性质，正式决策见 docs/）──
+.workbuddy/
+.git-commit-msg.txt
+
+# ── 原始 PDF 不提交（二进制流会触发 GitHub 密钥扫描误报），内容见同名 .txt ──
+*.pdf
+
+# ── 中间产物：候选图/矢量化临时文件 ──
 work/char/batch_*/_flat*
 work/char/batch_*/*_back.png
 work/char/batch_*/*_vec.svg
 work/char/batch_*/*_layers.json
 
-# 视频片段（体积大）
-*.mp4
+# ── 视频：成片保留（release/*.mp4 会提交），中间产物不提交 ──
 work/clips/
+work/ep01/clips/
+work/ep01/_norm/
+work/ep01/_check/
+work/ep01/*.m4a
+work/ep01/*.ass
+work/stage*/
+*.mov
 
-# 系统
+# ── 系统 ──
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# 编辑器
+# ── 编辑器 ──
 .vscode/
 .idea/
-
-# 原始 PDF 不提交（二进制流会触发 GitHub 密钥扫描误报），内容见同名 .txt
-*.pdf
-
-# 本地工作记忆（草稿性质，正式决策见 docs/）
-.workbuddy/
-.git-commit-msg.txt
-__pycache__/
-*.pyc

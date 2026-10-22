@@ -87,12 +87,39 @@ def _req(url, body=None, retries=6, timeout=240):
     raise RuntimeError(f"重试耗尽: {last}")
 
 
-def _b64(path):
+def _b64(path, data_uri=False):
+    """读图转 base64。
+    ⚠️ 实测：Agnes 的 `extra_body.image` 要的是**纯 base64**，
+       带 `data:image/png;base64,` 前缀会报
+       "invalid image base64: illegal base64 data at input byte 1"。
+    """
     with open(path, "rb") as f:
-        ext = os.path.splitext(path)[1].lower().lstrip(".")
-        mime = {"png": "image/png", "jpg": "image/jpeg", "jpeg": "image/jpeg",
-                "webp": "image/webp"}.get(ext, "image/png")
-        return f"data:{mime};base64," + base64.b64encode(f.read()).decode()
+        raw = base64.b64encode(f.read()).decode()
+    if not data_uri:
+        return raw
+    ext = os.path.splitext(path)[1].lower().lstrip(".")
+    mime = {"png": "image/png", "jpg": "image/jpeg", "jpeg": "image/jpeg",
+            "webp": "image/webp"}.get(ext, "image/png")
+    return f"data:{mime};base64," + raw
+
+
+def _prep_images(init_images):
+    """把各种形式的输入统一成 API 要的形式。
+       · http(s) URL          → 原样
+       · 本地文件路径（存在）  → 读成纯 base64
+       · 其它字符串            → 认为已经是 base64，原样
+    """
+    out = []
+    for im in init_images:
+        if not isinstance(im, str):
+            raise TypeError("图片项必须是路径 / URL / base64 字符串")
+        if im.startswith(("http://", "https://")):
+            out.append(im)
+        elif os.path.isfile(im):
+            out.append(_b64(im))
+        else:
+            out.append(im)
+    return out
 
 
 def gen_image(prompt, size="2K", ratio="1:1", negative=None, init_images=None,
@@ -103,7 +130,7 @@ def gen_image(prompt, size="2K", ratio="1:1", negative=None, init_images=None,
     if negative:
         extra["negative_prompt"] = negative
     if init_images:
-        imgs = [im if isinstance(im, str) else _b64(im) for im in init_images]
+        imgs = _prep_images(init_images)
         extra["image"] = imgs if len(imgs) > 1 else imgs[0]
     body["extra_body"] = extra
 
@@ -135,11 +162,26 @@ def gen_image(prompt, size="2K", ratio="1:1", negative=None, init_images=None,
 
 def gen_video(prompt, seconds="5", mode="keyframe", images=None, ratio="16:9",
               save_to=None):
-    """生成视频。mode: text / keyframe / reference（reference 保身份，传 images 列表）"""
+    """生成视频。
+
+    mode 与图片字段的对应（实测，传错直接 400）：
+      · keyframe  → 必须带 `first_frame`（可选 `last_frame`），单张
+                    报错："keyframe 模式需要 first_frame 或 last_frame"
+      · reference → 带 `images` 列表（保角色身份）
+      · text      → 不带图
+    """
     body = {"model": VID_MODEL, "mode": mode, "prompt": prompt,
             "seconds": str(seconds), "size": "720P", "aspect_ratio": ratio, "n": 1}
     if images:
-        body["images"] = [im if isinstance(im, str) else _b64(im) for im in images]
+        prepped = _prep_images(list(images))
+        if mode == "keyframe":
+            body["first_frame"] = prepped[0]
+            if len(prepped) > 1:
+                body["last_frame"] = prepped[1]
+        elif mode == "reference":
+            body["images"] = prepped
+        else:
+            raise ValueError(f"mode={mode} 不接受图片")
     d = _req(BASE + "/videos", body)
     vid = d.get("video_id") or d.get("id")
     if not vid:

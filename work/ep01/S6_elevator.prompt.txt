@@ -1,0 +1,7 @@
+{
+  "prompt": "tight enclosed elevator shot, an anthropomorphic hinny delivery rider — a horse's compact body with a donkey's long straight face — lean and wiry, warm chestnut-brown fur, a battered mustard-yellow baseball cap worn backwards, a loud second-hand necktie over a plain cream undershirt, **a band of faded yellow cloth tape wrapped around his left ear**, two medium-length ears standing up, a short flat mane along the neck, arms end in three-fingered hoof-hands, kind eyes with clear catchlights, seen in the bronze mirror walls, **his thin shoulders slightly trembling**, taking a deep breath, both hands straightening his necktie, pulling the corners of his mouth up into a bright determined smile, warm amber light on metal, tender and quiet, retro american cartoon style, thick wobbly black ink outlines with varied line weight, flat solid colors, visible halftone dot texture, warm sepia palette, nostalgic picture-book mood",
+  "init_image": "S0_character_sheet.png",
+  "size": "2K",
+  "ratio": "16:9",
+  "elapsed_s": 104.0
+}

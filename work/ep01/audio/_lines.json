@@ -1,0 +1,66 @@
+{
+  "L00_narrator_open": {
+    "text": "那夜，我爸犯了错，然后有了我。他是匹英俊的赛马，我妈是头勤恳的母驴。大家说我是个错误，但在骡马城，谁又不是个美丽的意外呢？",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": -8,
+    "pitch": "-2Hz",
+    "file": "L00_narrator_open.mp3",
+    "bytes": 82656
+  },
+  "L01_sign": {
+    "text": "来了骡马，就是骡马人。",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": -5,
+    "pitch": "-2Hz",
+    "file": "L01_sign.mp3",
+    "bytes": 18720
+  },
+  "L02_mirror": {
+    "text": "小甘小甘，今天也要元气满满，送出第一万单！",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": 6,
+    "pitch": "+3Hz",
+    "file": "L02_mirror.mp3",
+    "bytes": 27936
+  },
+  "L03_scooter": {
+    "text": "橙蜜蜜让一让，红狗狗靠边走——黄袋鼠阿甘，来咯！",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": 10,
+    "pitch": "+4Hz",
+    "file": "L03_scooter.mp3",
+    "bytes": 31680
+  },
+  "L04_goat": {
+    "text": "这小骡子，天天玩特技！",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": -6,
+    "pitch": "-4Hz",
+    "file": "L04_goat.mp3",
+    "bytes": 16272
+  },
+  "L05_lobby": {
+    "text": "叔，这是八十八楼波斯猫总裁的无糖热燕麦。冷了她脾气，可比您还凶哦。",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": 4,
+    "pitch": "+2Hz",
+    "file": "L05_lobby.mp3",
+    "bytes": 43200
+  },
+  "L06_elevator": {
+    "text": "生活很难，但我的单子，绝不超时。",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": -10,
+    "pitch": "+0Hz",
+    "file": "L06_elevator.mp3",
+    "bytes": 28656
+  },
+  "L07_rooftop": {
+    "text": "明天见，骡马城。",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": -6,
+    "pitch": "+1Hz",
+    "file": "L07_rooftop.mp3",
+    "bytes": 16848
+  }
+}

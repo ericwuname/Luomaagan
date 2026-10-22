@@ -1,0 +1,7 @@
+{
+  "prompt": "epic panoramic shot from a high rooftop terrace, an anthropomorphic hinny delivery rider — a horse's compact body with a donkey's long straight face — lean and wiry, warm chestnut-brown fur, a battered mustard-yellow baseball cap worn backwards, a loud second-hand necktie over a plain cream undershirt, **a band of faded yellow cloth tape wrapped around his left ear**, two medium-length ears standing up, a short flat mane along the neck, arms end in three-fingered hoof-hands, kind eyes with clear catchlights, seen from behind at the railing, eating a small bread roll, **a vast sprawling sunlit fictional metropolis spreads out below, old dense low town in warm orange merging into cool blue glass towers**, golden sunrise rim light, deeply emotional and hopeful, retro american cartoon style, thick wobbly black ink outlines with varied line weight, flat solid colors, visible halftone dot texture, warm sepia palette, nostalgic picture-book mood",
+  "init_image": "S0_character_sheet.png",
+  "size": "2K",
+  "ratio": "16:9",
+  "elapsed_s": 107.5
+}
