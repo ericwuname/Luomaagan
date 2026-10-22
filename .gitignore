@@ -1,0 +1,35 @@
+# ── 密钥 ──
+.env
+.env.*
+*.key
+secrets*
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ── 中间产物 / 大文件 ──
+# 生成的候选图很多，只保留精选进 git；原始批次在本地
+work/char/batch_*/_flat*
+work/char/batch_*/*_back.png
+work/char/batch_*/*_vec.svg
+work/char/batch_*/*_layers.json
+
+# 视频片段（体积大）
+*.mp4
+work/clips/
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+
+# 原始 PDF 不提交（二进制流会触发 GitHub 密钥扫描误报），内容见同名 .txt
+*.pdf

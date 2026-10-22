@@ -1,0 +1,8 @@
+{
+  "tag": "P1a",
+  "prompt": "front view character design, plain warm cream background, THIS IS THE KEY: **his torso is a solid BOX SHAPE** — a squarish, slightly tapered rectangular body with flat front panel and softly rounded corners, like a living delivery crate that grew on him, a small square head sitting directly on top of the box with almost no neck, a long narrow donkey face on that square head, two long ears standing straight up, four very thin stick-like legs coming out of the bottom of the box, tiny hooves, square body, long face, thin stick legs — extreme contrast, reddish-chestnut coat, glossy sorrel brown, a short mane in one narrow strip that lies flat and falls to one side, american retro cartoon style, thick wobbly black ink outlines, flat solid colors, visible halftone dot texture, warm sepia palette, nostalgic storybook mood",
+  "size": "2K",
+  "ratio": "3:4",
+  "model": "agnes-image-2.5-flash",
+  "elapsed_s": 11.3
+}

@@ -1,0 +1,8 @@
+{
+  "tag": "X2",
+  "prompt": "head and shoulders portrait, front view, plain warm cream background, two medium-length ears standing upright and slightly outward from the top of the head, each shaped like a rounded leaf with a soft blunt tip, stiff and erect, held up like a pair of antennas, the LEFT ear has a permanent fold near its tip, the top third bent over and drooping slightly like a boxer's ear, which breaks the outline of that ear, a long straight profile like a donkey's face, plain and hardworking, large round eyes with plenty of white and warm brown irises, a calm closed-mouth smile, a cropped mane that grows only in a short narrow strip along the ridge of the neck and falls over flat to one side, lying down against the skin, a warm reddish-chestnut coat, glossy sorrel brown, only the muzzle is a shade lighter, the lips stay the same warm brown as the face, american retro cartoon style, thick wobbly black ink outlines, flat solid colors, visible halftone dot texture, warm sepia palette, nostalgic storybook mood",
+  "size": "2K",
+  "ratio": "3:4",
+  "model": "agnes-image-2.5-flash",
+  "elapsed_s": 11.2
+}

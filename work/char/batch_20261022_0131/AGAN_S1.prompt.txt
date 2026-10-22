@@ -1,0 +1,8 @@
+{
+  "tag": "S1",
+  "prompt": "character design, plain warm cream background, **the whole body flows along one single S-curve**: from the soft arc of his bent neck, down through a torso leaning a few degrees off vertical, ending in legs curving back the other way, nothing stiff or plank-straight, **THE SIGNATURE DETAIL: a band of faded yellow cloth tape is wrapped around the middle of his LEFT ear**, wound two or three times, the tape edges curling and slightly dirty, the ear above the tape bends over a little under its weight, this taped ear is the one thing that makes him instantly recognisable, seen from a three-quarter angle, head tilted a little to one side, one shoulder higher than the other, weight on one leg with the other knee softly bent, **arms hang clear of the body leaving visible gaps**, each arm has one straight edge and one curved edge, a long narrow donkey face with a straight profile, a short mane in one narrow strip lying flat along the neck, a short thin tail whose upper half is bare and whose tip carries one small tuft, lean wiry body with thin legs, warm chestnut-brown fur, lighter muzzle, a gentle closed-mouth smile, kind eyes with clear catchlights, arms end in three-fingered hoof-hands, one hand raised holding a small paper bag, clean simple surfaces, nothing else added, no clutter, american retro cartoon style, thick wobbly black ink outlines with varied line weight, flat solid colors, visible halftone dot texture, warm sepia palette, nostalgic picture-book mood",
+  "size": "2K",
+  "ratio": "3:4",
+  "model": "agnes-image-2.5-flash",
+  "elapsed_s": 14.3
+}

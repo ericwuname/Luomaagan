@@ -1,0 +1,8 @@
+{
+  "tag": "P4a",
+  "prompt": "front view character design, plain warm cream background, **an old worn-out plush toy that has been used for years**: patched stitches on the cheek, one seam repaired with visible thread, slightly uneven eyes, one ear standing up and the other one folded down, faded sun-bleached coat with lighter worn areas on the knees, a long donkey face, thin legs, reddish-chestnut coat, glossy sorrel brown, a short mane in one narrow strip that lies flat and falls to one side, american retro cartoon style, thick wobbly black ink outlines, flat solid colors, visible halftone dot texture, warm sepia palette, nostalgic storybook mood",
+  "size": "2K",
+  "ratio": "3:4",
+  "model": "agnes-image-2.5-flash",
+  "elapsed_s": 10.3
+}

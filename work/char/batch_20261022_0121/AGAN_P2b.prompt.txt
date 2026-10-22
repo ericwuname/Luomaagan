@@ -1,0 +1,8 @@
+{
+  "tag": "P2b",
+  "prompt": "full body front view, plain warm cream background, **the body is a thin vertical strip** and the head is a tall narrow slab, so the whole silhouette reads like a tall rectangle standing on thin legs, a very long donkey face taking most of the head, two big upright antenna ears, reddish-chestnut coat, glossy sorrel brown, a short mane in one narrow strip that lies flat and falls to one side, american retro cartoon style, thick wobbly black ink outlines, flat solid colors, visible halftone dot texture, warm sepia palette, nostalgic storybook mood",
+  "size": "2K",
+  "ratio": "3:4",
+  "model": "agnes-image-2.5-flash",
+  "elapsed_s": 11.7
+}

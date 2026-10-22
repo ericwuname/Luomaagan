@@ -1,0 +1,8 @@
+{
+  "tag": "P3a",
+  "prompt": "front view character design, plain warm cream background, **a long thin neck permanently bent forward at a 30 degree angle**, as if he is forever leaning into a headwind and refusing to stop, big head with a long donkey face at the end of that bent neck, two upright ears, a small compact body, thin legs, the bent neck is the dominant shape of the silhouette, reddish-chestnut coat, glossy sorrel brown, a short mane in one narrow strip that lies flat and falls to one side, american retro cartoon style, thick wobbly black ink outlines, flat solid colors, visible halftone dot texture, warm sepia palette, nostalgic storybook mood",
+  "size": "2K",
+  "ratio": "3:4",
+  "model": "agnes-image-2.5-flash",
+  "elapsed_s": 12.7
+}

@@ -1,0 +1,8 @@
+{
+  "tag": "P4b",
+  "prompt": "full body front view, plain warm cream background, **a much-loved battered toy**: visible patches, one ear up and one ear flopped over, a small tear repaired with cross stitching on the shoulder, faded coat, four thin legs, long donkey face, reddish-chestnut coat, glossy sorrel brown, a short mane in one narrow strip that lies flat and falls to one side, american retro cartoon style, thick wobbly black ink outlines, flat solid colors, visible halftone dot texture, warm sepia palette, nostalgic storybook mood",
+  "size": "2K",
+  "ratio": "3:4",
+  "model": "agnes-image-2.5-flash",
+  "elapsed_s": 11.2
+}

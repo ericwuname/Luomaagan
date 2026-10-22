@@ -1,0 +1,132 @@
+第1 页
+《骡马阿甘》
+项目交接书（Agent 执行手册）
+ProjectHandover&ExecutionManual
+第2 页
+一、交接说明
+本文档面向本地Agent 的执行使用，用于从当前《骡马阿甘》项目已确认的世界观与角色
+设定出发，接手后续的视觉定型、剧本分镜与成片生产工作。
+阅读优先级：
+ 先读第四章“角色设定（锁定版）”——所有出图与出视频必须以该章为唯一依据；
+ 再读第六章“执行工作流”——按其中的四步顺序执行，不要跳步；
+ 最后参考第七章“提示词库”直接调用。
+第3 页
+二、项目已确认事项
+模块 状态 说明
+剧名 已定 《骡马阿甘》
+主角身份 已定 甘骡八（阿甘），雄性驴骡，瘦小体型
+主角物种 已定 驴骡（hinny）= 公马× 母驴，非马骡、非纯驴
+主角口头禅 已定 “那夜，我爸犯了错，然后有了我。”
+世界观 已定 骡马城，对标上海体量，深圳移民精神
+城市标语 已定 “来了骡马，就是骡马人”
+职业设定 已定 黄袋鼠外卖平台骑手
+视觉风格 已定 美式卡通复古风，粗线条平涂，网点颗粒，暖色调
+核心情绪 已定 治愈、解压、笑着感动，拒绝负能量
+单集时长/ 更新 已定 1–3 分钟，每日一集，无终局
+片头片尾概念 有概念无成
+品
+有文字描述，待出图
+第一集剧本 未开始 当前阻塞项之一
+第4 页
+三、待补齐事项（按优先级）
+优先级 事项 说明
+P0 阿甘定妆图定型 当前最大瓶颈，需先出裸角色三视图并通过剪
+影测试
+P0 第一集完整剧本+ 分镜表 无剧本则无法生视频，是致命缺失
+P1 配角群定妆 袋叔、闪电兔、大黄、老山羊奶奶、波斯猫房
+东等
+P1 骡马城核心场景气氛图 至少5 个场景，与角色视觉体系统一
+P2 片头片尾画面与提示词 已有概念文案，待视觉化
+P2 BGM/ 音效方向 尚未讨论
+P3 发布渠道与收益模式 抖音/B 站/ 小红书，横屏竖屏待定
+第5 页
+四、角色设定（锁定版）
+本章为唯一角色依据，后续所有生图与生视频调用必须遵循。
+4.1 物种硬约束
+阿甘= 驴骡（hinny）。请在提示词中显式写入hinny，避免模型默认漂向纯驴或马骡。
+部位 驴骡特征（阿甘） 必须避免（常见错误）
+耳朵 中等偏长，比马长、比驴稍短 画成纯驴的长矛耳
+鬃毛 短、稀、微微倒下 画成纯驴的直立鬃毛
+尾巴 上半截毛短，仅尾尖一撮 画成马的长尾
+体型 瘦小，偏驴，比驴大、比马小 画成马骡的壮实体型
+毛色 骝色/ 栗色/ 土黄 纯驴灰
+嘴唇 正常色 白唇+ 白眼圈（那是驴）
+蹄子 小蹄，蹄踵高 大马蹄
+4.2 四个视觉记忆点（不可改动）
+序号 记忆点 细节
+1 左耳耳尖缺一角 幼年磨坊轭具蹭伤；黑白剪影下最易识别
+2 瘦小前倾站姿 “永远在赶路”的微前倾；与袋鼠、狗形成体型差
+3 后脑一撮短鬃 仅脖子后沿一小排，微微翘，跑动会晃
+4 蹄爪化双手 前肢拟人但保留蹄甲，三指；脚为分趾蹄，不穿鞋
+4.3 统一风格描述（所有出图提示词的风格前缀）
+retroamericancartoonstyle,thickwobblyblackoutlines,flatsolidcolors,halftonedotstexture,warm
+sepiatone,nostalgicatmosphere
+中文对照：美式卡通复古风，粗抖线条黑色描边，平涂纯色，网点颗粒质感，暖褐复古色调，怀
+旧氛围。
+4.4 标志性动作锚点
+第6 页
+为让角色跨集、跨服装仍可被识别，需绑定一个固定动作：单手将外卖箱举过头顶+ 另
+一只手扶“隐形车把”。后续每集即便换装换场景，该姿态应保留。
+第7 页
+五、执行工作流（四步顺序，禁止跳步）
+第一步：裸角色三视图
+目的：把不穿衣服的裸角色定死，之后再套制服，避免换装导致角色漂移。
+验收：涂黑剪影缩至头像尺寸，可一眼识别“小骡子+ 缺耳尖”。
+第二步：加标志性动作锚点
+在裸角色基础上，固定“举箱过头顶+ 扶车把”姿态，产出动作参考图。
+第三步：套黄袋鼠制服
+制服是皮肤而非本体。先有角色，再有工服。可在此时同步产出换装变体。
+第四步：表情表
+至少六个表情：开心、委屈、赶路慌张、傻笑、发呆、鞠躬。阿甘的委屈脸是灵魂——嘴
+角往下但眼睛不凶。
+第8 页
+六、提示词库
+以下提示词可直接复制调用。占位符用 [ ] 标出，替换后使用。所有中文场景请先
+译为英文。
+6.1 阿甘裸角色三视图（首要执行项）
+用途：定妆，不穿任何衣服，后续换装的基础。
+English prompt:
+characterdesignsheet,threeviews(front/side/3-4view),anthropomorphicdonkeymule(hinny:horse
+father+donkeymother),NOTpuredonkey,NOThorse,smallslimbody,shortneck,slightlyforward-
+leaningstance,medium-longearsshorterthandonkeyears,LEFTeartipchipped,shortlaid-backmane
+onlyatbackofneck,shorttailwithbareupperhalfandsmalltuftattip,hoof-likehandswiththreefingers,
+clovenhoovesforfeet,coatcolordustysorrelbrown,retroamericancartoonstyle,thickwobblyblack
+outlines,flatcolors,halftonedots,warmcreambackground,noclothes,nohelmet,notext,nologo
+Negative prompt:
+puredonkey,longspearears,uprightmane,graydonkeycoat,whitedonkeylips,horsebody,big
+muscularbuild,humanhands,shoes,clothes,helmet,watermark,text
+6.2 骡马城地图 / 城市全貌
+avintagehand-drawnmapofafictionalChinesecitycalledLuomaCity,threedistricts:oldtownwith
+densealleywaysanddryinglaundry(warmorange),newdowntownwithglassskyscrapersandshopping
+malls(coolblue),industrialoutskirtswithfactoriesandwarehouses(gray-brown),adeliveryrideronan
+electricscooterridingthroughthestreets,warmretrocolorpalette,halftonetexture,thickoutlines,
+chinesesignagestyle(signsleftblankforlatertext),aerialperspective,cozynostalgicatmosphere
+6.3 森林入口标语牌
+anoldweatheredwoodensignboardstandingattheentranceofaforest,hand-paintedtextarealeftblank
+forlater,paintpeelingoff,surroundedbywildgrassandadirtpath,warmgoldensunlightfiltering
+throughtrees,nostalgicatmosphere,retroamericancartoonstyle,thickoutlines,earlymorninglight
+6.4 通用出图风格前缀（追加到任意提示词前）
+retroamericancartoonstyle,thickwobblyblackoutlines,flatsolidcolors,halftonedotstexture,warm
+sepiatone
+6.5 生视频参考
+推荐以图生视频为主，先定好关键帧静态图再驱动。视频帧数须按8n+1 规则对齐（如3
+秒=81 帧，5 秒=121 帧，10 秒=241 帧@24fps）。
+第9 页
+七、交付清单与验收
+7.1 本轮需交付的产物
+序号 产物 格式 验收
+1 阿甘裸角色三视图 PNG 剪影测试通过，四记忆点稳定
+2 阿甘表情表（六表情） PNG 同角色体系，委屈脸准确
+3 骡马城城市地图 PNG 三区结构清晰，色调统一
+4 森林入口标语牌 PNG 氛围到位，文字留白
+5 核心场景气氛图×5 PNG 与角色同视觉体系
+6 第一集剧本+ 分镜表 Markdown/
+DOCX
+每镜画面、景别、时长、对白齐全
+7.2 硬性边界（必须严格遵守）
+ 中文文字一律后期打标，禁止让AI 直接生成汉字；
+ 提示词中显式锁定hinny，防止物种漂移到驴或马；
+ 角色定型前不要进入成片生产，避免批量返工；
+ 每一轮出图必须保留所用提示词原文与参数，便于回溯迭代。
+7.3 沟通与确认节点
+角色定妆图（第一步产物）需交还项目发起人确认后方可继续，不得自行推进到第二步。
