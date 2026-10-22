@@ -173,6 +173,17 @@ def main():
                 subs.append((round(st + at + row["start"], 2),
                              round(st + at + row["end"], 2), row["text"]))
 
+    # BGM（EP01 是温情线：慢速钢琴 + 拨弦，后半段渐暖）
+    bgm = os.path.join(ROOT, "work", "ep01c", "bgm_EP01.m4a")
+    if os.path.exists(bgm):
+        inputs += ["-i", bgm]
+        filters.append(f"[{idx}:a]volume=0.78,atrim=0:{total:.3f},"
+                       f"afade=t=in:st=0:d=1.5,"
+                       f"afade=t=out:st={max(0,total-2.5):.2f}:d=2.5[bgm]")
+        mix_in.append("[bgm]")
+        idx += 1
+        print("  BGM 已并入")
+
     # 环境音按段落
     bed_pts = []
     for (name, src, target, lvl, vos, note), st in zip(TIMELINE, starts):

@@ -216,6 +216,41 @@ def main():
         mix_in.append(f"[hg{idx}]")
         idx += 1
 
+    # BGM（音乐本身已有段落起伏：小声段"蹑手蹑脚"、门铃处"提起来"）
+    # ⛔ 第一版只给了固定音量 0.78，结果把"静"垫高了：小声段从 -49 抬到 -38，
+    #    门铃仍是 -25，**落差从 24dB 压到 13dB，冲击力弱了**。
+    #    → 音乐要会"让路"：小声段压到 0.24，爆点放到 1.0。
+    bgm = os.path.join(EP, "bgm_EP02.m4a")
+    if os.path.exists(bgm):
+        inputs += ["-i", bgm]
+        BGM_LVL = {
+            "01_note": 0.90, "02_read": 0.82, "03_corridor": 0.50,
+            "04_tiptoe": 0.26, "05_bell": 0.22, "06_sees": 0.32, "07_bag": 0.22,
+            "08_bell": 1.00, "09_shock": 0.58, "10_rabbit": 0.52,
+            "11_mimic": 0.88, "12_whisper": 0.22, "13_loud": 0.95,
+            "14_door": 0.58, "15_evidence": 0.50, "16_triangle": 0.92,
+            "17_fivestar": 0.68, "18_neighbors": 1.00,
+        }
+        bp = []
+        for (name, src, target, lvl, vos, bell_at, note), st in zip(TIMELINE, starts):
+            v = BGM_LVL.get(name, 0.70)
+            bp.append((st, v))
+            bp.append((st + target, v))
+        bp.append((total, 0.02))
+        parts2 = []
+        for i in range(len(bp) - 1):
+            (t0, a0), (t1, a1) = bp[i], bp[i + 1]
+            span = max(0.01, t1 - t0)
+            parts2.append(f"if(between(t,{t0:.3f},{t1:.3f}),"
+                          f"{a0:.4f}+({a1-a0:+.4f})*(t-{t0:.3f})/{span:.3f},")
+        expr2 = "".join(parts2) + "0.70" + ")" * len(parts2)
+        filters.append(f"[{idx}:a]volume='0.80*({expr2})':eval=frame,"
+                       f"atrim=0:{total:.3f},"
+                       f"afade=t=in:st=0:d=1.0[bgm]")
+        mix_in.append("[bgm]")
+        idx += 1
+        print("  BGM 已并入（带段落让路曲线）")
+
     # 环境底：按段落（小声段压到极低，笑点段抬高）
     bed_pts = []
     for (name, src, target, lvl, vos, bell_at, note), st in zip(TIMELINE, starts):
