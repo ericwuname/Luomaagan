@@ -1,5 +1,0 @@
-{
-  "prompt": "character reference sheet, front view standing portrait, plain warm cream background, an anthropomorphic hinny delivery rider — a horse's compact body with a donkey's long straight face — lean and wiry, warm chestnut-brown fur, a battered mustard-yellow baseball cap worn backwards, a loud second-hand necktie over a plain cream undershirt, **a band of faded yellow cloth tape wrapped around his left ear**, two medium-length ears standing up, a short flat mane along the neck, arms end in three-fingered hoof-hands, kind eyes with clear catchlights, standing upright on two legs with weight on one leg, slightly leaning forward as if always in a hurry, a confident crooked half-smile, clean simple surfaces, full body visible, retro american cartoon style, thick wobbly black ink outlines with varied line weight, flat solid colors, visible halftone dot texture, warm sepia palette, nostalgic picture-book mood",
-  "size": "2K",
-  "ratio": "3:4"
-}

@@ -1,6 +1,0 @@
-{
-  "motion": "**THE CAMERA STAYS LOW NEAR THE BRIDGE DECK LOOKING UP** and rotates slightly to the RIGHT to follow his turn. The camera stays at this low height for the whole shot: it does not rise, does not crane up, does not tilt up. He leans low into the tight turn, the rhino truck rushes past the opposite way, the small wheel skims the iron beam, the box stays level, water glitters far below. Continuous single move.",
-  "seconds": "4",
-  "keyframe": "S4_bridge.png",
-  "elapsed_s": 190.7
-}

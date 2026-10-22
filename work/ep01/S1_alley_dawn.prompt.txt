@@ -1,7 +1,0 @@
-{
-  "prompt": "high angle wide establishing shot, a dense old-town alley at dawn, **many laundry poles with drying clothes strung between handshake buildings**, warm morning sunlight slicing across old brick walls, two sparrows on a wire above, no people, empty quiet street, retro american cartoon style, thick wobbly black ink outlines with varied line weight, flat solid colors, visible halftone dot texture, warm sepia palette, nostalgic picture-book mood",
-  "init_image": "S0_character_sheet.png",
-  "size": "2K",
-  "ratio": "16:9",
-  "elapsed_s": 416.7
-}

@@ -1,8 +1,0 @@
-{
-  "tag": "Q3",
-  "prompt": "front view character design, plain warm cream background, **he stands upright on two legs like a person**, **his torso is one solid SQUARE BOX shape** — a squarish chunky body with a flat front panel and softly rounded corners, wider than it is tall, like a living parcel crate that grew onto him, two skinny arms come out of the upper corners of the box, two thin spindly legs come out of the bottom of the box, small cloven hooves, his head is a long narrow donkey face with a straight profile, two long ears standing upright, a short mane in one narrow strip lying flat along the back of the neck, the face and limbs are warm reddish-chestnut brown, glossy sorrelarms end in three-fingered hoof-hands, his body is a bit worn: a patched seam stitched across one corner, faded scuffed paint at the edges, a small dent, **the box torso is bright warm mustard yellow**, a strong solid yellow panel, no clothing, american retro cartoon style, thick wobbly black ink outlines, flat solid colors, visible halftone dot texture, warm sepia palette, nostalgic storybook mood",
-  "size": "2K",
-  "ratio": "3:4",
-  "model": "agnes-image-2.5-flash",
-  "elapsed_s": 10.6
-}

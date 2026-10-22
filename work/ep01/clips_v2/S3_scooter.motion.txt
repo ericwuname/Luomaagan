@@ -1,6 +1,0 @@
-{
-  "motion": "**THE CAMERA TRACKS SIDEWAYS TO THE RIGHT** at exactly the scooter's speed, so the scooter stays pinned in the centre of frame while the entire background street slides from RIGHT to LEFT behind him. This is a pure sideways tracking shot: no zoom, no push in, no vertical movement, no up-and-down bobbing. He lifts the steaming box onto the rear rack, the pinwheel spins, his ears blow back. One long uninterrupted sideways track.",
-  "seconds": "5",
-  "keyframe": "S3_scooter.png",
-  "elapsed_s": 132.5
-}

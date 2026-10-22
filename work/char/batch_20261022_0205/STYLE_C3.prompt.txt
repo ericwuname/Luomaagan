@@ -1,8 +1,0 @@
-{
-  "tag": "C3",
-  "prompt": "an anthropomorphic hinny delivery rider — a horse's compact body with a donkey's long straight face — lean and wiry, standing upright on two legs, **weight on one leg with the other knee softly bent, one hand on his hip**, **his body flows along one single S-curve, nothing stiff**, two long ears standing up with the left one bent over at the tip, a short mane lying flat along the neck, **a battered baseball cap**, **a loud second-hand necktie over a plain undershirt**, one hand raised holding a delivery bag, a confident crooked half-smile, kind eyes with clear catchlights, arms end in three-fingered hoof-hands, **SOLARPUNK**: a bright sunlit street of the future, solar panels and living green vines growing over white ceramic architecture, small wind turbines on rooftops, hanging plants and glass, his cap has a tiny solar panel patch, his bag is woven from recycled bioplastic, **warm golden light, fresh greens and cream whites, hopeful and clean**, no grime, no darkness, art nouveau influenced retro cartoon, thick clean outlines, flat colors, gentle halftone texture, ",
-  "size": "2K",
-  "ratio": "3:4",
-  "model": "agnes-image-2.5-flash",
-  "elapsed_s": 18.7
-}

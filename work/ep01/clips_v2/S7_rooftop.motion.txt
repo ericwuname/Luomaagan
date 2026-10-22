@@ -1,6 +1,0 @@
-{
-  "motion": "**THE CAMERA CRANES UP AND PULLS BACK** slowly and continuously away from him: the frame grows wider and wider, he becomes smaller and smaller in the middle of frame, and more and more of the sunlit city is revealed below and beyond. The camera only pulls OUT and rises, it never pushes in and never tilts down. He bites the bread roll and chews, the wind lifts the tape on his ear, golden rim light. One long continuous crane-out.",
-  "seconds": "5",
-  "keyframe": "S7_rooftop.png",
-  "elapsed_s": 255.6
-}

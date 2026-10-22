@@ -1,8 +1,0 @@
-{
-  "tag": "R3",
-  "prompt": "character design, plain warm cream background, **the whole body flows along one single S-curve**: it starts at the soft arc of his bent neck, sweeps down through a torso that leans a few degrees off vertical, and finishes in legs that curve back the other way. Nothing in the pose is stiff or plank-straight. **a slim anthropomorphic mule with a small woven delivery basket strapped on his back**, his own narrow chest and belly visible in front of the basket, **he is seen from a three-quarter angle, not straight on**, head tilted slightly to one side, one shoulder higher than the other, standing with his weight on one leg while the other knee is softly bent, **both arms hang clear of the body with visible empty gaps between arm and torso**, each arm has one straight edge and one curved edge so it never reads as a sausage, a long narrow donkey face with a straight profile, a gentle closed-mouth smile, two long ears standing up, the LEFT one bent over at its tip, a short mane in one narrow strip lying flat along the neck, warm chestnut-brown fur with a lighter muzzle, arms end in three-fingered hoof-hands, one hand raised holding a small paper bag, clean simple surfaces, **only one visible repair**: a single short line of stitching across one corner, nothing else added, **muted chestnut fur with a warm ochre basket**, no clothing, american retro cartoon style, thick wobbly black ink outlines with VARIED line weight (heavy on the outer silhouette, thin inside), flat solid colors, visible halftone dot texture, warm sepia palette, nostalgic picture-book mood",
-  "size": "2K",
-  "ratio": "3:4",
-  "model": "agnes-image-2.5-flash",
-  "elapsed_s": 17.2
-}

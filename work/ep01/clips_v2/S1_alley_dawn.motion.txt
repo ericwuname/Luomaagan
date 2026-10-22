@@ -1,6 +1,0 @@
-{
-  "motion": "**THE CAMERA TILTS DOWN** slowly and continuously: start looking at the laundry poles and the sparrows high on the wire, then tilt DOWN the brick walls until the empty alley floor fills the bottom of frame. The camera tilts only DOWNWARD, it never tilts up. The clothes sway, morning haze drifts, dust floats in the light. Continuous single move.",
-  "seconds": "4",
-  "keyframe": "S1_alley_dawn.png",
-  "elapsed_s": 217.4
-}

@@ -1,7 +1,0 @@
-{
-  "prompt": "side tracking action shot, an anthropomorphic hinny delivery rider — a horse's compact body with a donkey's long straight face — lean and wiry, warm chestnut-brown fur, a battered mustard-yellow baseball cap worn backwards, a loud second-hand necktie over a plain cream undershirt, **a band of faded yellow cloth tape wrapped around his left ear**, two medium-length ears standing up, a short flat mane along the neck, arms end in three-fingered hoof-hands, kind eyes with clear catchlights, riding a small yellow electric scooter through an old alley, **lifting a steaming insulated delivery box high overhead onto the rear rack**, a small paper pinwheel tied to the handlebar, **his lean body leaning forward in a clean S-curve**, ears blown back by the wind, the mane at the back of his neck lifting, motion blur on the background, retro american cartoon style, thick wobbly black ink outlines with varied line weight, flat solid colors, visible halftone dot texture, warm sepia palette, nostalgic picture-book mood",
-  "init_image": "S0_character_sheet.png",
-  "size": "2K",
-  "ratio": "16:9",
-  "elapsed_s": 185.9
-}

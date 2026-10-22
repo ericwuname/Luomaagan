@@ -1,8 +1,0 @@
-{
-  "tag": "P2a",
-  "prompt": "front view character design, plain warm cream background, **an extremely LONG face**: the head is a tall narrow rectangle, the muzzle alone is half the total head height, making the face read as a long vertical slab, two huge ears shaped like radar antennas standing up and slightly out, a small skinny body underneath, four thin legs, face is the dominant shape of the whole character, reddish-chestnut coat, glossy sorrel brown, a short mane in one narrow strip that lies flat and falls to one side, american retro cartoon style, thick wobbly black ink outlines, flat solid colors, visible halftone dot texture, warm sepia palette, nostalgic storybook mood",
-  "size": "2K",
-  "ratio": "3:4",
-  "model": "agnes-image-2.5-flash",
-  "elapsed_s": 10.7
-}

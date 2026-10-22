@@ -1,7 +1,0 @@
-{
-  "tag": "E1",
-  "prompt": "full body character design, front view, standing upright on two legs, a small anthropomorphic hinny delivery rider, **a horse's compact body with a donkey's long straight face**, lean and wiry, thin legs, small cloven hooves, an oversized round head sitting on a short neck, **very large round eyes with big white sclera and clear catchlights**, **wearing a mustard-yellow sleeveless uniform vest and a small orange delivery satchel on his back**, a short flat mane, a thin tail with a tuft at the tip, **a soft dusty slate-blue-grey coat with a pale cream muzzle**, **big pink inner ears**, the blue-grey fur contrasts strongly with the mustard-yellow vest, two long narrow upright ears, each a slim tapered leaf, a gentle closed-mouth smile, calm kind expression, american retro cartoon style, thick wobbly black ink outlines, flat solid colors, visible halftone dot texture, warm cream background, clean simple shapes like a vintage storybook character sheet",
-  "size": "2K",
-  "ratio": "3:4",
-  "elapsed_s": 20.0
-}

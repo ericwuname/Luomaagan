@@ -1,8 +1,0 @@
-{
-  "tag": "T3",
-  "prompt": "character design, plain warm cream background, **the whole body flows along one single S-curve**, torso leaning a few degrees off vertical, weight on one leg with the other knee softly bent, **arms hang clear of the body leaving visible gaps**, **his mane is styled into a small swept-up pompadour on top of his head**, combed back and up with a bit of cheap pomade, a single lock falling loose over the brow, **a narrow vintage necktie in a loud clashing pattern, clearly second-hand**, tied neat and precise as if it matters to him, worn over a plain worn-out undershirt, **a band of faded yellow cloth tape wrapped around the middle of his LEFT ear**, wound a few times, the edges curling, **a hinny — the child of a horse father and a donkey mother — so he has a horse's compact body and a donkey's long straight face**, lean wiry frame with long thin legs and a narrow waist, warm chestnut-brown fur with a lighter muzzle, **no hat, the hairstyle does the work**, a confident crooked half-smile, arms end in three-fingered hoof-hands, clean simple surfaces, american retro cartoon style, thick wobbly black ink outlines with varied line weight, flat solid colors, visible halftone dot texture, warm sepia palette, nostalgic picture-book mood",
-  "size": "2K",
-  "ratio": "3:4",
-  "model": "agnes-image-2.5-flash",
-  "elapsed_s": 13.8
-}

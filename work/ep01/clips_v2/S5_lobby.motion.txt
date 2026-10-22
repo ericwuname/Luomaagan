@@ -1,6 +1,0 @@
-{
-  "motion": "**THE CAMERA SITS LOW LOOKING UP** at the turnstiles, and PUSHES IN very slowly toward the courier, then holds still. It does not pull back. The dog guard taps the sign twice, the courier glances at his watch then looks up with a sly smile, cold reflections slide across the glass. Continuous single move.",
-  "seconds": "5",
-  "keyframe": "S5_lobby.png",
-  "elapsed_s": 131.8
-}

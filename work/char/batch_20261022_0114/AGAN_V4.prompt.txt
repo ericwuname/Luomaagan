@@ -1,9 +1,0 @@
-{
-  "tag": "V4",
-  "prompt": "full body standing portrait, front view, slightly leaning forward as if always in a hurry, plain warm cream background, HER TWO LONG EARS STAND STRAIGHT UP AND OUT FROM THE TOP OF HER HEAD, stiff, erect and pointed at the sky like two radio antennas, each ear a long tapered blade with a soft inner curve, clearly upright and never flopping down, the very tip of her LEFT ear has a small triangular piece missing — a clean chipped notch, easy to see in silhouette, a long narrow donkey muzzle with a straight nose bridge and a soft grey-pink nose, large round eyes set wide apart with plenty of white and warm brown irises, a calm gentle half-smile, a lean bony little body, flat hollow belly, thin long legs, narrow shoulders, short neck held level, a short flat mane lying down along the back of the neck only, skinny arms ending in three-fingered hoof-hands, small cloven hooves for feet, dusty sorrel brown coat with a lighter muzzle, american retro cartoon style of the 1950s, thick wobbly black ink outlines, flat solid colors, visible halftone dot texture on shading, warm sepia palette, nostalgic storybook mood",
-  "negative": null,
-  "size": "2K",
-  "ratio": "3:4",
-  "model": "agnes-image-2.5-flash",
-  "elapsed_s": 10.4
-}

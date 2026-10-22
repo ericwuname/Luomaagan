@@ -1,8 +1,0 @@
-{
-  "tag": "P1b",
-  "prompt": "full body character design, front view, plain warm cream background, **a BOX-SHAPED body**: a chunky squarish torso with a flat front like a wooden crate, rounded corners, visibly wider than tall, a small square head on top with a long narrow donkey muzzle, two upright ears, four thin spindly legs, tiny hooves, one arm holding a delivery bag overhead, reddish-chestnut coat, glossy sorrel brown, a short mane in one narrow strip that lies flat and falls to one side, american retro cartoon style, thick wobbly black ink outlines, flat solid colors, visible halftone dot texture, warm sepia palette, nostalgic storybook mood",
-  "size": "2K",
-  "ratio": "3:4",
-  "model": "agnes-image-2.5-flash",
-  "elapsed_s": 11.0
-}

@@ -1,8 +1,0 @@
-{
-  "tag": "X3",
-  "prompt": "full body standing portrait, front view, leaning slightly forward as if always hurrying, plain warm cream background, two medium-length ears standing upright and slightly outward from the top of the head, each shaped like a rounded leaf with a soft blunt tip, stiff and erect, held up like a pair of antennas, the tip of the LEFT ear has a small piece broken off, a clear angular missing corner that dents the outline, a long straight profile like a donkey's face, plain and hardworking, large round eyes with plenty of white and warm brown irises, a calm closed-mouth smile, the body of a young workhorse, lean and wiry with long slim legs and a flat belly, narrow chest and narrow shoulders, short straight neck, a cropped mane that grows only in a short narrow strip along the ridge of the neck and falls over flat to one side, lying down against the skin, arms ending in three-fingered hoof-hands, small cloven hooves for feet, barefoot, a warm reddish-chestnut coat, glossy sorrel brown, only the muzzle is a shade lighter, the lips stay the same warm brown as the face, american retro cartoon style, thick wobbly black ink outlines, flat solid colors, visible halftone dot texture, warm sepia palette, nostalgic storybook mood",
-  "size": "2K",
-  "ratio": "3:4",
-  "model": "agnes-image-2.5-flash",
-  "elapsed_s": 12.7
-}
