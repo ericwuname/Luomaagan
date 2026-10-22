@@ -1,0 +1,73 @@
+{
+  "L00_narrator_open": {
+    "text": "那夜，我爸犯了错，然后有了我。他是匹英俊的赛马，我妈是头勤恳的母驴。大家说我是个错误，但在骡马城，谁又不是个美丽的意外呢？",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": -8,
+    "pitch": "-2Hz",
+    "duration": 13.723,
+    "sentences": [
+      {
+        "start": 0.1,
+        "end": 3.746,
+        "text": "那夜，我爸犯了错，然后有了我。"
+      },
+      {
+        "start": 3.696,
+        "end": 8.098,
+        "text": "他是匹英俊的赛马，我妈是头勤恳的母驴。"
+      },
+      {
+        "start": 8.098,
+        "end": 13.723,
+        "text": "大家说我是个错误，但在骡马城，谁又不是个美丽的意外呢？"
+      }
+    ]
+  },
+  "L05_lobby": {
+    "text": "叔，这是八十八楼波斯猫总裁的无糖热燕麦。冷了她脾气，可比您还凶哦。",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": 4,
+    "pitch": "+2Hz",
+    "duration": 7.139,
+    "sentences": [
+      {
+        "start": 0.1,
+        "end": 4.293,
+        "text": "叔，这是八十八楼波斯猫总裁的无糖热燕麦。"
+      },
+      {
+        "start": 4.243,
+        "end": 7.139,
+        "text": "冷了她脾气，可比您还凶哦。"
+      }
+    ]
+  },
+  "L06_elevator": {
+    "text": "生活很难，但我的单子，绝不超时。",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": -10,
+    "pitch": "+0Hz",
+    "duration": 4.758,
+    "sentences": [
+      {
+        "start": 0.1,
+        "end": 4.758,
+        "text": "生活很难，但我的单子，绝不超时。"
+      }
+    ]
+  },
+  "L07_rooftop": {
+    "text": "明天见，骡马城。",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": -6,
+    "pitch": "+1Hz",
+    "duration": 2.789,
+    "sentences": [
+      {
+        "start": 0.1,
+        "end": 2.789,
+        "text": "明天见，骡马城。"
+      }
+    ]
+  }
+}

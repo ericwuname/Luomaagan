@@ -1,0 +1,6 @@
+{
+  "motion": "**THE CAMERA DOLLIES IN** slowly and continuously toward his face: the frame grows tighter, his head becomes larger in frame, the walls and furniture slide OUT past the edges. The camera only moves FORWARD, it never pulls back and never zooms out. Meanwhile he pushes the backwards cap down onto his head and gives a lopsided grin. Continuous single move.",
+  "seconds": "4",
+  "keyframe": "S2_mirror_cap.png",
+  "elapsed_s": 150.4
+}

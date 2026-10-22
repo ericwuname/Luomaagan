@@ -1,0 +1,7 @@
+file 'D:/0.个人文档/个人文档/AI短剧/骡马阿甘_AI短剧/work/ep01/_norm_v2/S1_alley_dawn.mp4'
+file 'D:/0.个人文档/个人文档/AI短剧/骡马阿甘_AI短剧/work/ep01/_norm_v2/S2_mirror_cap.mp4'
+file 'D:/0.个人文档/个人文档/AI短剧/骡马阿甘_AI短剧/work/ep01/_norm_v2/S3_scooter.mp4'
+file 'D:/0.个人文档/个人文档/AI短剧/骡马阿甘_AI短剧/work/ep01/_norm_v2/S4_bridge.mp4'
+file 'D:/0.个人文档/个人文档/AI短剧/骡马阿甘_AI短剧/work/ep01/_norm_v2/S5_lobby.mp4'
+file 'D:/0.个人文档/个人文档/AI短剧/骡马阿甘_AI短剧/work/ep01/_norm_v2/S6_elevator.mp4'
+file 'D:/0.个人文档/个人文档/AI短剧/骡马阿甘_AI短剧/work/ep01/_norm_v2/S7_rooftop.mp4'

@@ -1,0 +1,6 @@
+{
+  "motion": "**THE CAMERA IS LOCKED COMPLETELY STILL ON A TRIPOD AND DOES NOT MOVE AT ALL** — no zoom, no push, no pan, no drift, the frame is absolutely fixed for the entire shot. Only the character moves inside the still frame: he takes a slow deep breath, his thin shoulders rise and settle, both hands straighten the necktie, then he pulls his mouth up into a bright smile. Bronze walls reflect everything softly. The camera stays motionless the whole time.",
+  "seconds": "4",
+  "keyframe": "S6_elevator.png",
+  "elapsed_s": 109.1
+}
