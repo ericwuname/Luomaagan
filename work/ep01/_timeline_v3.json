@@ -1,0 +1,98 @@
+{
+  "total": 38.08,
+  "segments": [
+    {
+      "tag": "S1",
+      "dur": 5.0,
+      "mode": "slow",
+      "vo": "N1_night",
+      "vo_at": 0.45,
+      "fade_in": 0.5,
+      "note": "远景给足时间扫环境（远长）"
+    },
+    {
+      "tag": "S2",
+      "dur": 5.3,
+      "mode": "slow",
+      "vo": "N2_father",
+      "vo_at": 0.3,
+      "note": "台词 4.83s，镜头服从台词"
+    },
+    {
+      "tag": "S3",
+      "dur": 5.7,
+      "mode": "slow",
+      "vo": "D3_ride",
+      "vo_at": 0.22,
+      "note": "骑车欢快段，语速本就快"
+    },
+    {
+      "tag": "S4",
+      "dur": 3.0,
+      "mode": "cut",
+      "vo": "D4_goat",
+      "vo_at": 0.15,
+      "note": "全片最快，2.71s 台词"
+    },
+    {
+      "tag": "S4b",
+      "dur": 0.9,
+      "mode": "tail",
+      "vo": null,
+      "note": "★ 留白①：动作急停，让上一镜砸下来"
+    },
+    {
+      "tag": "S5",
+      "dur": 5.0,
+      "mode": "slow",
+      "vo": "D5_lobby",
+      "vo_at": 0.2,
+      "note": "门禁对峙"
+    },
+    {
+      "tag": "S6",
+      "dur": 3.0,
+      "mode": "cut",
+      "vo": "N6_mistake",
+      "vo_at": 0.16,
+      "note": "★ 这句话放在这里，画面和情绪咬合"
+    },
+    {
+      "tag": "S6b",
+      "dur": 0.8,
+      "mode": "freeze",
+      "vo": null,
+      "note": "★ 留白②：0.8 秒完全静止，只有环境声"
+    },
+    {
+      "tag": "S7",
+      "dur": 8.2,
+      "mode": "slow_freeze",
+      "vo": "N7_accident",
+      "vo_at": 0.3,
+      "vo2": "D7_tomorrow",
+      "vo2_at": 5.3,
+      "note": "★ 长镜留白：先说意外呢，停 0.5s，再说明天见"
+    },
+    {
+      "tag": "S8",
+      "dur": 3.0,
+      "mode": "cut",
+      "vo": null,
+      "fade_out": 1.2,
+      "note": "★ 留白③：3 秒只有环境声，淡出收住"
+    }
+  ],
+  "starts": [
+    0.0,
+    5.0,
+    10.3,
+    16.0,
+    19.0,
+    19.9,
+    24.9,
+    27.9,
+    28.7,
+    36.9
+  ]
+}

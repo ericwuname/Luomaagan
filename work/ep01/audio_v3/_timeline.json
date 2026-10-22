@@ -1,0 +1,114 @@
+{
+  "N1_night": {
+    "text": "那夜，我爸犯了错，然后有了我。",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": -12,
+    "pitch": "-3Hz",
+    "duration": 4.255,
+    "sentences": [
+      {
+        "start": 0.1,
+        "end": 4.255,
+        "text": "那夜，我爸犯了错，然后有了我。"
+      }
+    ]
+  },
+  "N2_father": {
+    "text": "他是匹英俊的赛马，我妈是头勤恳的母驴。",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": -8,
+    "pitch": "-2Hz",
+    "duration": 4.833,
+    "sentences": [
+      {
+        "start": 0.1,
+        "end": 4.833,
+        "text": "他是匹英俊的赛马，我妈是头勤恳的母驴。"
+      }
+    ]
+  },
+  "D3_ride": {
+    "text": "橙蜜蜜让一让，红狗狗靠边走——黄袋鼠阿甘，来咯！",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": 10,
+    "pitch": "+4Hz",
+    "duration": 5.277,
+    "sentences": [
+      {
+        "start": 0.1,
+        "end": 5.277,
+        "text": "橙蜜蜜让一让，红狗狗靠边走——黄袋鼠阿甘，来咯！"
+      }
+    ]
+  },
+  "D4_goat": {
+    "text": "这小骡子，天天玩特技！",
+    "voice": "zh-CN-YunyangNeural",
+    "rate": -6,
+    "pitch": "-4Hz",
+    "duration": 2.71,
+    "sentences": [
+      {
+        "start": 0.1,
+        "end": 2.71,
+        "text": "这小骡子，天天玩特技！"
+      }
+    ]
+  },
+  "D5_lobby": {
+    "text": "叔，这是八十八楼波斯猫总裁的无糖热燕麦。",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": 4,
+    "pitch": "+2Hz",
+    "duration": 4.581,
+    "sentences": [
+      {
+        "start": 0.1,
+        "end": 4.581,
+        "text": "叔，这是八十八楼波斯猫总裁的无糖热燕麦。"
+      }
+    ]
+  },
+  "N6_mistake": {
+    "text": "大家说我是个错误。",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": -14,
+    "pitch": "-3Hz",
+    "duration": 2.681,
+    "sentences": [
+      {
+        "start": 0.1,
+        "end": 2.681,
+        "text": "大家说我是个错误。"
+      }
+    ]
+  },
+  "N7_accident": {
+    "text": "但在骡马城，谁又不是个美丽的意外呢？",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": -10,
+    "pitch": "-2Hz",
+    "duration": 4.467,
+    "sentences": [
+      {
+        "start": 0.1,
+        "end": 4.467,
+        "text": "但在骡马城，谁又不是个美丽的意外呢？"
+      }
+    ]
+  },
+  "D7_tomorrow": {
+    "text": "明天见，骡马城。",
+    "voice": "zh-CN-YunjianNeural",
+    "rate": -8,
+    "pitch": "+1Hz",
+    "duration": 2.849,
+    "sentences": [
+      {
+        "start": 0.1,
+        "end": 2.849,
+        "text": "明天见，骡马城。"
+      }
+    ]
+  }
+}
